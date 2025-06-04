@@ -30,45 +30,45 @@ Minha paixão por tecnologia me impulsiona a buscar constantemente novas habilid
 ### 🚀 **Meus Projetos em Destaque**
 
 <details>
-  <summary><strong>Nome do Projeto 1</strong> (Clique para expandir)</summary>
+  <summary><strong>Futebol</strong> (Clique para expandir)</summary>
   <p>
-    Uma breve descrição do seu projeto, o problema que ele resolve, e as tecnologias chave utilizadas.
+    Desenvolvi uma aplicação interativa em JAVA. Os usuários podem adicionar jogadores, listar jogadores e sair. Isso simplifica o cadastro de jogadores e facilita a administração das informações.
     <br>
     <a href="https://github.com/KaykyYan/Futebol" target="_blank" rel="noopener noreferrer"><strong>Ver Repositório &rarr;</strong></a>
   </p>
 </details>
 
 <details>
-  <summary><strong>Nome do Projeto 2</strong> (Clique para expandir)</summary>
+  <summary><strong>Landing Page</strong> (Clique para expandir)</summary>
   <p>
-    Uma breve descrição do seu projeto, o problema que ele resolve, e as tecnologias chave utilizadas.
+    Desenvolvi esta landing page para aprimorar minhas habilidades em desenvolvimento web. Utilizando HTML, CSS e JavaScript, criei um design elegante e funcional, com foco na experiência do usuário
     <br>
     <a href="https://github.com/KaykyYan/Landing-Page-Odonto" target="_blank" rel="noopener noreferrer"><strong>Ver Repositório &rarr;</strong></a>
   </p>
 </details>
 
 <details>
-  <summary><strong>Nome do Projeto 2</strong> (Clique para expandir)</summary>
+  <summary><strong>Lista de Tarefas</strong> (Clique para expandir)</summary>
   <p>
-    Uma breve descrição do seu projeto, o problema que ele resolve, e as tecnologias chave utilizadas.
+    criei um projeto: um sistema simples de gerenciamento de tarefas. A ideia é organizar atividades do dia a dia, permitindo cadastrar, acompanhar e atualizar tarefas de forma prática
     <br>
     <a href="https://github.com/KaykyYan/Lista-de-Tarefas" target="_blank" rel="noopener noreferrer"><strong>Ver Repositório &rarr;</strong></a>
   </p>
 </details>
 
 <details>
-  <summary><strong>Nome do Projeto 2</strong> (Clique para expandir)</summary>
+  <summary><strong>Fórum GameDev</strong> (Clique para expandir)</summary>
   <p>
-    Uma breve descrição do seu projeto, o problema que ele resolve, e as tecnologias chave utilizadas.
+    O Fórum GameDev busca ser um ambiente para ajudar novos Desenvolvedores no mundo da produção de jogos, onde de forma simples os novatos podem ter contato direto com desenvolvedores mais experientes, sem estarem ligados a nenhuma empresa ou projeto.
     <br>
     <a href="https://github.com/KaykyYan/DevPlayground" target="_blank" rel="noopener noreferrer"><strong>Ver Repositório &rarr;</strong></a>
   </p>
 </details>
 
 <details>
-  <summary><strong>Nome do Projeto 2</strong> (Clique para expandir)</summary>
+  <summary><strong>Projeto ONG</strong> (Clique para expandir)</summary>
   <p>
-    Uma breve descrição do seu projeto, o problema que ele resolve, e as tecnologias chave utilizadas.
+    Projeto de Plataforma Institucional Olá! Seja bem-vindo ao projeto. A ideia aqui é desenvolver um projeto web, que vai muito além de só entregar informações institucionais. Queremos criar um espaço claro, simples e seguro, onde qualquer pessoa possa conhecer mais sobre o propósito do projeto, entender nossa missão e visão e, claro, interagir de forma prática e descomplicada.
     <br>
     <a href="https://github.com/KaykyYan/Projeto-PW" target="_blank" rel="noopener noreferrer"><strong>Ver Repositório &rarr;</strong></a>
   </p>
